@@ -13,7 +13,7 @@ if(isset($_POST['btnOpslaan']))
 	$prijs = $_POST['txtPrijs'];
 	//
 	
-	
+	//test 2
 	$pc->opslaanProduct($artikelnaam, $prijs);
 	
 }
